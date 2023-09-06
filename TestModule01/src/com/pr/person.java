@@ -6,4 +6,5 @@ package com.pr;
  */
 public class person {
     private int age;
+    private String name;
 }
